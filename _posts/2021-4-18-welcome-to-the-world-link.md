@@ -18,4 +18,4 @@ We were so hyped for the next two months. Even if 2020 sucked because of the pan
 
 {% include image.html img="images/october/IMG_1251.jpg" title="So happy!" caption="So happy!" %}
 
-{% include image.html img="images/october/IMG_1253.jpg" title="u dis man?" caption="u dis man?" %}
+{% include image.html img="images/october/IMG_1253.jpg" title="Hu dis man?" caption="Hu dis man?" %}
