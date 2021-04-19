@@ -4,26 +4,13 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Link is an [American Hairless Terrier](https://www.akc.org/dog-breeds/american-hairless-terrier/) born in [Slovakia](https://en.wikipedia.org/wiki/Slovakia) on 20th of September 2020 and immigrated to [**Slovenia**](https://en.wikipedia.org/wiki/Slovenia) 2 months later (I know, country names are confusing). It is believed he's one of the first of his kind in Slovenia and very much loved by his owners J&K.  
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+{% include image.html img="images/2021/april/IMG_6413.jpg" title="Fearless*" caption="Fearless*" %}
 
-## Features
+Purpose of this blog is keeping history of Link's life in a more conventional format than popular social media. But the main purpose is to introduce AHT breed to more people. It's important to know what to consider before owning an AHT because it's definitely not for everybody. 
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+Photos:
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+- logo: [@maja_kosi](https://www.instagram.com/maja_kosi/)
+- About page: [@maja_kosi](https://www.instagram.com/maja_kosi/)
